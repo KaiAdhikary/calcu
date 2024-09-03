@@ -138,19 +138,19 @@ int main()
 
             if (x==1)
             {
-                int a = y + z;
+                float a = y + z;
                 cout<<"\nThe solution of your given number is: "<<a<<".";
             }
             else{
                 if (x==2)
                 {
-                    int a = y - z;
+                    float a = y - z;
                     cout<<"\nThe solution of your given number is: "<<a<<".";
                 }
                 else{
                     if (x==3)
                     {
-                        int a = y * z;
+                        float a = y * z;
                         cout<<"\nThe solution of your given number is: "<<a<<".";
                     }
                     else{
